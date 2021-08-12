@@ -2,4 +2,4 @@
 Sample 
 
 
-This is my firrst Github Repository
+This is my first Github Repository
